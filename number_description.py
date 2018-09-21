@@ -25,7 +25,6 @@ WORDS = [
     "trillion","trillion","trillion",
     "quadrillion","quadrillion","quadrillion",
     "quintillion","quintillion","quintillion",
-    "quintrillion","quintrillion","quintrillion", 
     "sextillion","sextillion", "sextillion", 
     "septillion","septillion", "septillion", 
     "octillion","octillion","octillion",
